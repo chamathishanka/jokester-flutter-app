@@ -1,4 +1,4 @@
-# Joke App
+# Jokester Flutter App
 
 A Flutter application that fetches and displays jokes. The app supports caching jokes using `SharedPreferences` to provide offline access.
 
